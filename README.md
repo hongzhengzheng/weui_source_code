@@ -1,4 +1,12 @@
 # weui_source_code
+WEUI 为微信web服务量身设计
+
+###
+
+
+[Build Status]
+(https://travis-ci.org/Tencent/weui.svg?branch=master)
+
 weui 源码分析
 
 
